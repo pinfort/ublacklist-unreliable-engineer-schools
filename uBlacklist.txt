@@ -1,0 +1,3 @@
+*://*.sejuku.net/*
+*://techacademy.jp/*
+*://webkatu.com/*
